@@ -9,9 +9,9 @@
 //
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
-//= require js/plugins/bootstrap/bootstrap.min
 //= require js/plugins/jquery/jquery.min
 //= require js/plugins/jquery/jquery-ui.min
+//= require js/plugins/bootstrap/bootstrap.min
 //= require js/plugins/icheck/icheck.min
 //= require js/plugins/mcustomscrollbar/jquery.mCustomScrollbar.min
 //= require js/plugins/scrolltotop/scrolltopcontrol
