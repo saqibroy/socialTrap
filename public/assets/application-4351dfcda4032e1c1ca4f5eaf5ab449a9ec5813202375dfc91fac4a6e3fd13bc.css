@@ -1,0 +1,8 @@
+@import url(css/theme-default.css);
+/* line 4, /home/roy/rails/social_trap/app/assets/stylesheets/application.css.scss */
+.login-title {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
