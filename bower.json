@@ -1,9 +1,6 @@
 {
-  "name": "social_trap",
-  "version": "",
-  "main": "",
-  "private": true,
+  "name": "socialTrap",
   "dependencies": {
-  	{ "engines" : { "node": "4.1.2" } }
+    
   }
 }
